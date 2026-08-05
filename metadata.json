@@ -1,0 +1,6 @@
+{
+  "name": "Simple Interest Calculator",
+  "description": "Fast, accurate online simple interest calculator with formula breakdown, schedule table, reverse calculation, and interest comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

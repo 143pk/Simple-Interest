@@ -1,0 +1,4 @@
+# ads.txt support
+# High Performance Format Network / Google AdSense compatible
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+highperformanceformat.com, 4b1b9d605a12c38864a9d825b1c23827, DIRECT
